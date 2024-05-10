@@ -33,6 +33,41 @@ The disadvantages of data visualization:
 - Correlation does not always indicate causality.
 - Core messages can become lost in translation.
 
+### Basic of Visualization
+4 characteristics called ACES:
+
+a) Accurate
+
+The visualization should accurately depict the data and its trends.
+
+b) Clear
+
+Your visualization should be simple to grasp.
+
+c) Empowering
+
+The reader should know what to do after viewing your depiction.
+
+d) Succinct
+
+Your message should resonate quickly.
+
+#### 1. Comparison
+The term "comparison" refers to **comparing various variables in datasets or categories within one variable**. This can be demonstrated using bar charts, line graphs, or other comparison visualization methods.
+
+Example:
+- bar chart can compare exam scores between two classes in the school
+- line graph can compare a variable between two groups over time
+#### 2. Composition
+Composition is the representation of **one or more variables in absolute numbers and normalized forms**. This can be visualized using pie charts or stacked bar charts. While pie charts are considered outdated, they can nonetheless provide data in a visually pleasing and familiar way.
+#### 3. Relationship
+A relationship is the **connection between two or more variables**. A decent visualization can help identify these links without requiring sophisticated statistical analysis.
+
+Example:
+
+A graph can be used to depict the link between a tree's height and age
+#### 4. Spatial
+Spatial data charts, commonly called maps, are useful tools for **displaying and evaluating geographic data**. It is offer a strong method of showing data in a way that facilitates the analysis and identification of patterns, correlations, and trends. Users may readily determine where specific occurrences or phenomena are taking place and how they are spread throughout a geographical region. This is especially beneficial for examining data on population, demography, climate, and natural resources, among other topics.
 ## CRISP-DM
 CRISP-DM stands for Cross-Industry Standard Process for Data Mining. It is a cyclical process that provides a structured approach to planning, organizing, and implementing a data mining project. The process consists of six major phases:
 
