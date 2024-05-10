@@ -58,8 +58,40 @@ The term "comparison" refers to **comparing various variables in datasets or cat
 Example:
 - bar chart can compare exam scores between two classes in the school
 - line graph can compare a variable between two groups over time
+
+Types of Comparison Chart:
+- Among Categories
+  
+  a) Bar chart vertical
+
+  <img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/7f5727f7-427a-4846-a892-58008d9da556" width="400" height="280">
+
+  b) Bar chart horizontal
+
+  <img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/cefd85d4-a2a8-4978-a4fd-4e3af4b26a60" width="400" height="280">
+
+- Over Time
+
+  a) Line chart
+
+  b) Multiple line chart
 #### 2. Composition
 Composition is the representation of **one or more variables in absolute numbers and normalized forms**. This can be visualized using pie charts or stacked bar charts. While pie charts are considered outdated, they can nonetheless provide data in a visually pleasing and familiar way.
+
+Types of Composition Chart:
+- Changing Over Time
+  
+  a) Stacked bar chart
+
+  b) Stacked 100% bar chart
+  
+- Static
+
+  a) Pie chart
+
+  b) Waterfall chart
+
+  c) Tree map
 #### 3. Relationship
 A relationship is the **connection between two or more variables**. A decent visualization can help identify these links without requiring sophisticated statistical analysis.
 
