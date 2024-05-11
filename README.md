@@ -74,7 +74,12 @@ Types of Comparison Chart:
 
   a) Line chart
 
+  <img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/8862c3f7-85d3-4986-891a-cdfac2e0f013" width="400" height="290">
+
   b) Multiple line chart
+
+  <img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/a6e07a4d-7b4a-4548-be19-740302bb5f34" width="400" height="290">
+  
 #### 2. Composition
 Composition is the representation of **one or more variables in absolute numbers and normalized forms**. This can be visualized using pie charts or stacked bar charts. While pie charts are considered outdated, they can nonetheless provide data in a visually pleasing and familiar way.
 
@@ -82,16 +87,27 @@ Types of Composition Chart:
 - Changing Over Time
   
   a) Stacked bar chart
+  
+  <img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/933052ec-e166-4423-9bba-abde683f0a33" width="400" height="290">
 
   b) Stacked 100% bar chart
   
+  <img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/69b5a5a7-f8e3-48a2-95c2-c83b9833bf5e" width="500" height="290">
+
 - Static
 
   a) Pie chart
+  
+  <img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/1aeac12a-547b-4a92-9348-041d18a717e0" width="410" height="300">
 
   b) Waterfall chart
 
+  <img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/bd5fa4aa-e936-4f39-ae7f-c575095a1b4e" width="510" height="280">
+
   c) Tree map
+
+  <img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/cd70a16a-9a6d-40c5-ad8f-20aada3ad6b8" width="550" height="280">
+
 #### 3. Relationship
 A relationship is the **connection between two or more variables**. A decent visualization can help identify these links without requiring sophisticated statistical analysis.
 
@@ -103,7 +119,7 @@ Spatial data charts, commonly called maps, are useful tools for **displaying and
 ## CRISP-DM
 CRISP-DM stands for Cross-Industry Standard Process for Data Mining. It is a cyclical process that provides a structured approach to planning, organizing, and implementing a data mining project. The process consists of six major phases:
 
-((insert the photo))
+<img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/3ef18b7f-1cdb-45fa-886d-069d9fcc253b" width="400" height="320">
 
 ### 1. Business Understanding
 It has a quite vital part. Business understanding requires knowledge of the business objects, how to build or obtain data, and how to match modeling goals to business goals; so that the best model can be built. Activities carried out include: define business objectives, assessing the current scenario, setting data mining targets, and creating a project plan. 
