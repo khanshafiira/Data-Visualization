@@ -149,21 +149,23 @@ The GDPR has several fundamental obligations, including:
 - Individual rights
   
   Another important aspect of the GDPR is the very specific rights that data subjects (i.e., the individuals whose personal data is being gathered) have to understand why their data is being collected and how it is being processed. They have the right to object, correct, and be wiped or forgotten. They also have the right to be notified (individually) if their personal information has been compromised in a way that threatens their freedoms and rights.
-
 ### b. FERPA (Family Educational Rights and Privacy Act)
 The FERPA is a federal statute that **safeguards the privacy of student educational records**. The statute applies to all schools that receive monies from the United States Department of Education under an applicable program.
 
 FERPA gives parents some rights regarding their children's education records. These rights are transferred to the student when he or she reaches the age of 18 or enrolls in a school after high school. pupils with transferred rights are referred to as "eligible students."
-
 ### c. HIPAA (Health Insurance Portability and Accountability Act)
 <img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/1562f953-1457-496c-8e85-193ac86947af" width="350" height="290">
 
 Image source: https://blog.rsisecurity.com/what-are-the-top-5-components-of-the-hipaa-privacy-rule/
 
 HIPAA is a federal law in the United States that governs the privacy and security of health data. It was released on August 21, 1996. The HIPAA Privacy Rule sets national standards for **securing individual medical records and other personally identifiable health information**. It applies to health plans, health care institutions, and health care providers that perform certain health care transactions electronically. The rule mandates proper protections to preserve the privacy of protected health information, as well as limits and conditions on how such information may be used and disclosed without the individual's permission. Individuals also have rights to their protected health information under the regulations, such as the right to inspect and obtain copies of their health records, to direct covered entities to transmit electronic copies of their protected health information to third parties, and to request corrections.
-
 ### d. IRB (Institutional Review Board)
 <img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/d40346e3-b0da-4e27-859c-59b670160bea" width="550" height="350">
 
+Image source: https://www.wcu.edu/learn/office-of-the-provost/research/sponsored-research/research-compliance/Human-Subjects-Research/IRB-faq.aspx
+
 An IRB is a panel appointed to **examine and manage scientific research involving human participants**. The IRB's principal responsibility is to defend the rights and well-being of research participants. They have the authority to approve, modify, or reject a study. The IRB was founded in compliance with FDA requirements, and its goal is to guarantee that sufficient precautions are made to protect research subjects' rights and welfare. To ensure proper protection of research participants' rights and welfare, IRB Boards conduct group reviews of protocols and other related materials. They also guarantee that research studies adhere to rules, accepted ethical standards, institutional policies, and safeguard study subjects.
-### e. PCI
+### e. PCI (Payment Card Industry)
+<img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/474b59f8-5448-4d7f-ac8c-0a2ed20e9ff7" width="400" height="250">
+
+Payment Card Industry Data Security Standards (PCI-DSS) is a collection of security standards created by major credit card firms to help protect sensitive cardholder information. Unlike HIPAA and GDPR regulations, which are based on government law, **PCI-DSS compliance requirements are contractual commitments maintained and enforced by the Payment Card Industry Security Standards Council (PCI SSC)**, an independent multinational organization founded in 2006.PCI-DSS applies to any merchant or entity that accepts, transmits, or stores cardholder data. However, there are several PCI-DSS compliance levels based on how many payment transactions a merchant/organization has processed in the past twelve months.
