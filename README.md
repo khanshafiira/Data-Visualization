@@ -189,7 +189,7 @@ Generalizing at the population level based on a small sample size may yield skew
 This bias happens when people deliberately seek or interpret information in ways that confirm their pre-existing views or preconceptions. It might result in the selective acquisition or interpretation of data that supports one's beliefs while ignoring opposing evidence.
 ### b. Human Cognitive Bias
 This encompasses a variety of biases resulting from the way the human brain processes information. Anchoring bias (over-reliance on the initial information encountered), availability bias (prioritizing information that is easily accessible), and novelty bias (paying more weight to recent occurrences or experiences) are some examples.
-### 3. Motivational Bias
+### c. Motivational Bias
 Motivational bias occurs when people purposefully or unintentionally distort data collection or interpretation to advance their personal or professional goals. These biases can be motivated by financial incentives, professional progress aspirations, or personal values.
-### 4. Selection Bias in Data Visualisation and Representation
+### d. Selection Bias in Data Visualisation and Representation
 This bias can develop when certain visualisations or data representations are chosen to suit a specific narrative or agenda while disregarding or dismissing opposing viewpoints. For example, choosing just data points or visualisations that emphasize a desired outcome while omitting those that present a more balanced perspective.
