@@ -169,3 +169,27 @@ An IRB is a panel appointed to **examine and manage scientific research involvin
 <img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/474b59f8-5448-4d7f-ac8c-0a2ed20e9ff7" width="400" height="250">
 
 Payment Card Industry Data Security Standards (PCI-DSS) is a collection of security standards created by major credit card firms to help protect sensitive cardholder information. Unlike HIPAA and GDPR regulations, which are based on government law, **PCI-DSS compliance requirements are contractual commitments maintained and enforced by the Payment Card Industry Security Standards Council (PCI SSC)**, an independent multinational organization founded in 2006.PCI-DSS applies to any merchant or entity that accepts, transmits, or stores cardholder data. However, there are several PCI-DSS compliance levels based on how many payment transactions a merchant/organization has processed in the past twelve months.
+
+## Data Handling
+### 1. Handling PII
+When dealing with PII in tiny data sets, it is critical to gather and store only the information required for the intended purpose. To limit the possibility of being identified, the data may be anonymized or pseudonymized.
+### 2. Data Security Measures
+Implement strong data protection mechanisms, such as encryption, access restriction, and frequent security audits. Even tiny data sets might be vulnerable to unauthorised access, making data security a top priority.
+### 3. Anonymization Techniques
+Data anonymisation is the process of deleting or changing personally identifiable information in order to safeguard an individual's privacy. Techniques such as generalisation, filtering, and perturbation can be used to anonymize tiny data sets while retaining part of their utility.
+### 4. Importance of Data Anonymization
+Anonymizing data is critical for protecting individual privacy rights, preserving trust, and adhering to data protection requirements such as GDPR. It helps to limit the likelihood of re-identification and unauthorized use of personal information.
+### 5. Make a compromise between interpretability and accuracy
+When balancing interpretability and accuracy in tiny data sets, there are tradeoffs to be made. Increasing data anonymisation and aggregation for privacy reasons may affect the accuracy of analysis and insights derived from the data.
+### 6. Weaknesses of Generalizing at the Population Level with Limited Sample Data
+Generalizing at the population level based on a small sample size may yield skewed or incorrect results. Small data sets may fail to appropriately represent the population's diversity and complexity, leading in erroneous generalization.
+
+## Types of Bias that Affect Collection and Interpretation of Data
+### a. Confirmation bias
+This bias happens when people deliberately seek or interpret information in ways that confirm their pre-existing views or preconceptions. It might result in the selective acquisition or interpretation of data that supports one's beliefs while ignoring opposing evidence.
+### b. Human Cognitive Bias
+This encompasses a variety of biases resulting from the way the human brain processes information. Anchoring bias (over-reliance on the initial information encountered), availability bias (prioritizing information that is easily accessible), and novelty bias (paying more weight to recent occurrences or experiences) are some examples.
+### 3. Motivational Bias
+Motivational bias occurs when people purposefully or unintentionally distort data collection or interpretation to advance their personal or professional goals. These biases can be motivated by financial incentives, professional progress aspirations, or personal values.
+### 4. Selection Bias in Data Visualisation and Representation
+This bias can develop when certain visualisations or data representations are chosen to suit a specific narrative or agenda while disregarding or dismissing opposing viewpoints. For example, choosing just data points or visualisations that emphasize a desired outcome while omitting those that present a more balanced perspective.
