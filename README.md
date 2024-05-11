@@ -23,6 +23,16 @@ Happy growing!
 ## Data Visualization
 Data visualization refers to the graphical depiction of information and data. Data visualization tools use visual components such as charts, graphs, and maps to make trends, outliers, and patterns in data more visible and understandable. Furthermore, it allows employees or business owners to convey facts to non-technical audiences without confusion. Data visualization tools and technology are critical in Big Data analysis and decision-making.
 
+4 characteristics called ACES:
+- Accurate
+ The visualization should accurately depict the data and its trends.
+- Clear
+ Your visualization should be simple to grasp.
+- Empowering
+ The reader should know what to do after viewing your depiction.
+- Succinct
+ Your message should resonate quickly.
+
 The advantages of data visualization:
 - Information can be easily shared.
 - Explore options in an interactive way.
@@ -34,24 +44,6 @@ The disadvantages of data visualization:
 - Core messages can become lost in translation.
 
 ### Basic of Visualization
-4 characteristics called ACES:
-
-a) Accurate
-
-The visualization should accurately depict the data and its trends.
-
-b) Clear
-
-Your visualization should be simple to grasp.
-
-c) Empowering
-
-The reader should know what to do after viewing your depiction.
-
-d) Succinct
-
-Your message should resonate quickly.
-
 #### 1. Comparison
 The term "comparison" refers to **comparing various variables in datasets or categories within one variable**. This can be demonstrated using bar charts, line graphs, or other comparison visualization methods.
 
@@ -138,3 +130,40 @@ Evaluation is used to analyze the outcomes of data mining generated during the p
 
 ### 6. Deployment
 The model is finally deployed in a real-world situation. This might be as easy as creating a report or as complicated as establishing a repeatable data mining process. The key activities include planning deployment, monitoring and maintenance, reviewing the project, and completing the project.
+
+## Data Privacy Laws
+### a. GDPR (General Data Protection Regulation)
+<img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/2bf260dd-1ca0-4563-ab94-5c7fdb1b57ee" width="550" height="300">
+
+Image source: https://www.gdprregister.eu/gdpr/records-of-processing-activities/ 
+
+The GDPR is the most stringent privacy and security law in the world. The GDPR signals Europe's hard stance on data privacy and security at a time when more individuals are committing their personal data to cloud services and breaches are commonplace. GDPR compliance is a frightening prospect, especially for small and medium-sized organizations (SMEs), due to the regulation's scale, breadth, and relative lack of specificity.
+
+The GDPR has several fundamental obligations, including:
+- Consent
+
+  Organizations must obtain consent before collecting personal data, and the amount of consent varies depending on the type of personal data being collected.
+- Data minimization
+
+  In response to years of gratuitous acquisition of personal data by apps without a clear purpose, the GDPR requires enterprises to gather only personal data that is clearly relevant to a well-defined business objective. If an entity collects personal data for one reason but subsequently decides to use it for another (such as consumer profiling), this may be termed noncompliance.
+- Individual rights
+  
+  Another important aspect of the GDPR is the very specific rights that data subjects (i.e., the individuals whose personal data is being gathered) have to understand why their data is being collected and how it is being processed. They have the right to object, correct, and be wiped or forgotten. They also have the right to be notified (individually) if their personal information has been compromised in a way that threatens their freedoms and rights.
+
+### b. FERPA (Family Educational Rights and Privacy Act)
+The FERPA is a federal statute that **safeguards the privacy of student educational records**. The statute applies to all schools that receive monies from the United States Department of Education under an applicable program.
+
+FERPA gives parents some rights regarding their children's education records. These rights are transferred to the student when he or she reaches the age of 18 or enrolls in a school after high school. pupils with transferred rights are referred to as "eligible students."
+
+### c. HIPAA (Health Insurance Portability and Accountability Act)
+<img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/1562f953-1457-496c-8e85-193ac86947af" width="350" height="290">
+
+Image source: https://blog.rsisecurity.com/what-are-the-top-5-components-of-the-hipaa-privacy-rule/
+
+HIPAA is a federal law in the United States that governs the privacy and security of health data. It was released on August 21, 1996. The HIPAA Privacy Rule sets national standards for **securing individual medical records and other personally identifiable health information**. It applies to health plans, health care institutions, and health care providers that perform certain health care transactions electronically. The rule mandates proper protections to preserve the privacy of protected health information, as well as limits and conditions on how such information may be used and disclosed without the individual's permission. Individuals also have rights to their protected health information under the regulations, such as the right to inspect and obtain copies of their health records, to direct covered entities to transmit electronic copies of their protected health information to third parties, and to request corrections.
+
+### d. IRB (Institutional Review Board)
+<img src="https://github.com/khanshafiira/Data-Visualization/assets/166186201/d40346e3-b0da-4e27-859c-59b670160bea" width="550" height="350">
+
+An IRB is a panel appointed to **examine and manage scientific research involving human participants**. The IRB's principal responsibility is to defend the rights and well-being of research participants. They have the authority to approve, modify, or reject a study. The IRB was founded in compliance with FDA requirements, and its goal is to guarantee that sufficient precautions are made to protect research subjects' rights and welfare. To ensure proper protection of research participants' rights and welfare, IRB Boards conduct group reviews of protocols and other related materials. They also guarantee that research studies adhere to rules, accepted ethical standards, institutional policies, and safeguard study subjects.
+### e. PCI
